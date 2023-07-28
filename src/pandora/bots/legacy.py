@@ -131,8 +131,8 @@ class ChatBot:
         print('/copy\t\tCopy the last response to clipboard.')
         print('/copy_code\t\tCopy code from last response.')
         print('/clear\t\tClear your screen.')
-        print('/version\tPrint the version of Pandora.')
-        print('/exit\t\tExit Pandora.')
+        print('/version\tPrint the version of ApolloD.')
+        print('/exit\t\tExit ApolloD.')
         print()
 
     def __edit_choice(self):
